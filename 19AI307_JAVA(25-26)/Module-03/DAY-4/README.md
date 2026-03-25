@@ -22,8 +22,8 @@ To implement Interface in Java by defining an interface with abstract methods an
 ## PROGRAM:
  ```
 Program to implement a Interface using Java
-Developed by: Bolisetti Sanjitha
-Register Number: 212222040027
+Developed by: Pandidharan G R
+Register Number: 212222040111
 ```
 
 ## SOURCE CODE:
