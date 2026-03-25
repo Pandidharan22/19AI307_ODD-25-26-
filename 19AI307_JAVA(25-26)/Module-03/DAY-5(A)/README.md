@@ -21,7 +21,7 @@ To write a Java program to check whether a given number is a Palindrome or not u
 ## PROGRAM:
  ```
 Program to implement a InnerClass using Java
-Developed by: Pandidharan
+Developed by: Pandidharan G R
 RegisterNumber: 212222040111
 ```
 
